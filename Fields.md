@@ -109,7 +109,7 @@ You can customize a **Lookup** column in these ways:
 
 * **Choose columns to display**    You can add one or more columns to show specific field values for this column type.
 
-!(https://support.content.office.net/en-us/media/bccffe93-6d2e-4c5b-a219-997d9958398c.png)
+![](https://support.content.office.net/en-us/media/bccffe93-6d2e-4c5b-a219-997d9958398c.png)
 
 ### Yes/No (check box)
 
@@ -143,7 +143,7 @@ A **Hyperlink or Picture** column stores the Uniform Resource Locator (URL) for 
 
 To display the URL as a hyperlink, select the **Hyperlink** format. When people enter information about an item, they can enter the URL and descriptive text that appears in the column, instead of the URL. To display a graphic, instead of the URL for the graphics file, select the **Picture** format. When people enter information about an item they must enter the complete URL for the graphics file, such as http://www.example.com/image.gif, and they can optionally enter descriptive, alternative text for the graphic, which appears for people who turn off graphics in their browsers or rely on screen-reading software to convert graphics on the screen to spoken words.
 
-!(https://support.content.office.net/en-us/media/aafc8f93-5656-434b-9041-342d1e4770c5.png)
+![](https://support.content.office.net/en-us/media/aafc8f93-5656-434b-9041-342d1e4770c5.png)
 
 
 ### Calculated (calculation based on other columns)
@@ -156,7 +156,7 @@ In addition to entering the formula for the calculation, you specify what type o
 
 For more on formulas and functions to use with the calculated field, see [Examples of common formulas in SharePoint Lists](https://support.microsoft.com/en-us/office/examples-of-common-formulas-in-lists-d81f5f21-2b4e-45ce-b170-bf7ebf6988b3). This article has many common formulas, as well as links to descriptions of all the functions that can be used in SharePoint.
 
-!(https://support.content.office.net/en-us/media/52c45dc2-2bf7-4798-9d29-8f73b668a0d2.png)
+![](https://support.content.office.net/en-us/media/52c45dc2-2bf7-4798-9d29-8f73b668a0d2.png)
 
 ### Image
 
@@ -166,11 +166,11 @@ Once you add an Image column to a list or library, you can:
 
 * Add an image using the list or library form. For example, in the screenshot below **Device Photo** is the Image column.
 
-  !(https://support.content.office.net/en-us/media/690e061b-8cb4-43c7-847a-b248c8ed9273.png)
+  ![](https://support.content.office.net/en-us/media/690e061b-8cb4-43c7-847a-b248c8ed9273.png)
 
 * View, replace, or delete an image when viewing the item or file properties in the form by selecting the **Edit** (pencil) icon or the **Delete** (garbage can) icon.
 
-  !(https://support.content.office.net/en-us/media/bf65873f-c56e-4718-82e0-2baca54cc756.png)
+  ![](https://support.content.office.net/en-us/media/bf65873f-c56e-4718-82e0-2baca54cc756.png)
 
 ### Managed Metadata
 
@@ -184,7 +184,7 @@ These terms come from a term set that is managed centrally in the Term Store Man
 
 You can customize the Managed Metadata column in the following ways:
 
-!(https://support.content.office.net/en-us/media/74e6cd84-f28b-4f2d-b199-6dbdb891c142.png)
+![](https://support.content.office.net/en-us/media/74e6cd84-f28b-4f2d-b199-6dbdb891c142.png)
 
 **Selecting a term set or term**  Specify the term set that contains the desired values to associate with this column.  
 
