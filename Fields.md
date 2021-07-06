@@ -1,3 +1,5 @@
+Author: Linh.Chu
+
 ### Single line of text
 Displays small amounts of unformatted text in a single line, including:
 
